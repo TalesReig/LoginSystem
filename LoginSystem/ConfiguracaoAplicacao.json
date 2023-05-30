@@ -1,0 +1,7 @@
+{
+  "VersaoSistema": "1.0",
+
+  "ConnectionStrings": {
+    "SqlServer": "Data Source=(LocalDB)\\MSSqlLocalDB;Initial Catalog=DbLoginSystemOrm;Integrated Security=True"
+  }
+}
